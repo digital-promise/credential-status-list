@@ -1,0 +1,27 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/vc/status-list/2021/v1",
+    "https://w3id.org/security/suites/ed25519-2020/v1"
+  ],
+  "id": "https://digital-promise.github.io/credential-status-list/5R6EGMYJCL",
+  "type": [
+    "VerifiableCredential",
+    "StatusList2021Credential"
+  ],
+  "credentialSubject": {
+    "id": "https://digital-promise.github.io/credential-status-list/5R6EGMYJCL#list",
+    "type": "StatusList2021",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "statusPurpose": "revocation"
+  },
+  "issuer": "did:key:z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv",
+  "issuanceDate": "2024-12-20T17:22:03.122Z",
+  "proof": {
+    "type": "Ed25519Signature2020",
+    "created": "2024-12-20T17:22:03Z",
+    "verificationMethod": "did:key:z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv#z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "z3jVSid9WrsUgyM4ifPGP7hAn1stzVmguCXbhabHy1snm5qSBf3WDo4KMbhUzN8cN82qH65sPRXjX42KtA92n9hFC"
+  }
+}
