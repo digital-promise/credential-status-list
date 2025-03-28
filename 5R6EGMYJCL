@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://digital-promise.github.io/credential-status-list/5R6EGMYJCL#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCIO1fatFssQtI0wsAAAAAAAAAAAAAAMCvAWvy-grUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BMQEAAAwCIO1fatFssQtI02sAAAAAAAAAAAAAAABeDQDSBSPUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx",
-  "issuanceDate": "2025-03-28T17:38:46.443Z",
+  "issuanceDate": "2025-03-28T17:46:58.491Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2025-03-28T17:38:46Z",
+    "created": "2025-03-28T17:46:58Z",
     "verificationMethod": "did:key:z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx#z6MkfCRV5nQE8zySbj54BxbtYqcLCVnjBp6vNsNPhzdzJDKx",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3S11zW6enQE2inQw4MYeGbQygVUD5uLgwkbPNaBLzkjhXVqgTKK6wY4cz6KpZB1oKZVTtFaS1AMSEnBqrWE7Ns7X"
+    "proofValue": "z5YqgTZDQrbGAWvy7xviMHH3cXLsvLTWvX4UVfpLwAxFoCAuNdhjvbF4yySrDADwaFDV4FDAfE2rgyjo6sk5crGSf"
   }
 }
