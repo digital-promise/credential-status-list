@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://digital-promise.github.io/credential-status-list/5R6EGMYJCL#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3MsQnCQBiG4f9AvFgd2FkepA-4gCmzRQZJo7hIZskAmclGEDlwAZ-n-97iixRpKxGPORo1Dm38SN-ze5f7sNR-iuvxPF7yWp63055_3QAAAAAAAAAAAAAAAP_oBZr-FxrUMAAA",
+    "encodedList": "H4sIAAAAAAAAA-3MsQmDUBiF0f9BMKZ6YGf5wF7IAlq6hYPYKFkks2QAZ0oTCEHIAp7T3a-4kSK9csQ2x0GJyzF-pd9Zf8raL6Wb4l41Y3t95sdw2_O_GwAAAAAAAAAAAAAA4IzeSauXV9QwAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv",
-  "issuanceDate": "2025-07-14T19:34:44.054Z",
+  "issuanceDate": "2025-07-14T19:35:00.895Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2025-07-14T19:34:44Z",
+    "created": "2025-07-14T19:35:00Z",
     "verificationMethod": "did:key:z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv#z6MkvniTB4GebqfaANm9dBgeVXrHVPdDztpjXruJnZmTFvnv",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z3g81QqofyxMJxA5aB8EVLdD68SGoSSQuZsxsXdkDCMSws7NxETZoUfJJG1Lna1vUuLr57s9fE3dMgEyHqHb4sX7r"
+    "proofValue": "z2LJtjM1UYBExsrEavqEwFViuMaFnx8ncNADrUXLAB9aezmmJZ5pa744uw6yAM2foe8UApknrrfRgYetDXgqzPLxh"
   }
 }
